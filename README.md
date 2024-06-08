@@ -38,7 +38,7 @@ The project is divided into the following key components:
 
 ## Contact
 
-For any questions or issues, please contact [snigdhapaul2003@gmail.com].
+For any questions or issues, please contact [sambitmallick.pro@gmail.com].
 
 ---
 
